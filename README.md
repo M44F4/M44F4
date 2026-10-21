@@ -1,19 +1,34 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
-
-<h1 align="center">Hi, I'm M44F4</h1>
-
-<h3 align="center">AI & Computer Science Student</h3>
-
 <p align="center">
-  Currently focused on Python, Artificial Intelligence, Machine Learning, Computer Vision and Deep Learning.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="M44F4" width="100%">
+  </picture>
 </p>
 
----
+<p align="center">
+  <a href="https://m44f4.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg">
+      <img src="assets/portfolio-light.svg" alt="Portfolio" height="36">
+    </picture>
+  </a>
+</p>
 
-<h3 align="left">Languages</h3>
+### Projects
 
-<p align="left">
+| | |
+| :-- | :-- |
+| [**cseen**](https://github.com/M44F4/cseen) | Themeable 2D and 3D SVG illustrations and animations for the web. |
+| [**Blobble**](https://github.com/M44F4/blobble) | A cozy little companion made from your name. A blob that lives in your tray, bar or desktop, reacts to what you do and keeps you on a Pomodoro. |
+
+### Stack
+
+<details>
+<summary>Languages, ML, web, databases and tools</summary>
+
+<h4>Languages</h4>
+
+<p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
   </a>
@@ -58,9 +73,9 @@
   </a>
 </p>
 
-<h3 align="left">AI / Machine Learning / Data</h3>
+<h4>AI / Machine Learning / Data</h4>
 
-<p align="left">
+<p>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
   </a>
@@ -99,9 +114,9 @@
   </a>
 </p>
 
-<h3 align="left">Web / Backend</h3>
+<h4>Web / Backend</h4>
 
-<p align="left">
+<p>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
   </a>
@@ -122,9 +137,9 @@
   </a>
 </p>
 
-<h3 align="left">Databases</h3>
+<h4>Databases</h4>
 
-<p align="left">
+<p>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
   </a>
@@ -136,9 +151,9 @@
   </a>
 </p>
 
-<h3 align="left">Tools & Systems</h3>
+<h4>Tools & Systems</h4>
 
-<p align="left">
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
   </a>
@@ -150,20 +165,4 @@
   </a>
 </p>
 
----
-
-<h3 align="left">Featured Project</h3>
-
-<h4><a href="https://github.com/M44F4/omatouch">OmaTouch</a></h4>
-
-<p>
-A plugin for a re-sizable, theme-matching on-screen touch keyboard for tablet mode. Multiple layouts, Super key shortcuts, clipboard and key bindings straight from the screen, and multi-lingual support.
-</p>
-
-
-
----
-
-<p align="center">
-  <i>Learn, build, break, fix, repeat.</i>
-</p>
+</details>
